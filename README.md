@@ -17,19 +17,18 @@ It is designed to help individuals or organizations evaluate the impact of insta
 ---
 
 ## 📂 Folder Structure
-
-.
-├── Energy Consumption.py
-├── hourly energy consumption.py
-├── solar panel energy production and calculating the potential savings for different numbers of panels.py
-├── solar_modules.py
-├── sazonal_consumption.py
-├── prices_aux.py
-├── AC_helper.py
-├── CONSUMPTION_FUNC.py
-├── Consumption.txt
-├── Final_Calcs/
-└── polynomial_regression_degree_*.png
+ 
+├── 📄 Energy_Consumption.py  
+├── 📄 hourly_energy_consumption.py  
+├── 📄 solar_panel_energy_production_and_calculating_the_potential_savings_for_different_numbers_of_panels.py  
+├── 📄 solar_modules.py  
+├── 📄 sazonal_consumption.py  
+├── 📄 prices_aux.py  
+├── 📄 AC_helper.py  
+├── 📄 CONSUMPTION_FUNC.py  
+├── 📄 Consumption.txt  
+├── 📂 Final_Calcs/  
+└── 📄 polynomial_regression_degree_*.png  
 
 
 ---
@@ -120,6 +119,7 @@ This project is licensed under the MIT License.
 ## Ravi Shankar Kumar Singh
 
 Connect with me on LinkedIn: https://www.linkedin.com/in/ravi-shankar-singh-08361b290/
+
 Check out more on GitHub: https://github.com/ravishankar1810
 
 ### 🤝 Contributions
